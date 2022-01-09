@@ -1,0 +1,16 @@
+.topo {
+          background: url(img/programacaocapa.jpg);
+          background-repeat: no-repeat;
+          background-size: cover;
+          min-height: 20vh;
+          display: flex;
+          justify-content: center;
+          position: relative;
+        }
+        .topo .logo {
+          width: 150px;
+          height: 150px;
+          border-radius: 50%;
+          position: absolute;
+          bottom: -50px;
+        }
